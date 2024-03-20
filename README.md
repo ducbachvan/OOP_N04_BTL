@@ -4,6 +4,7 @@ Bài tập lớn lớp OOP_N04
 1. Các nhóm tạo thư mục là số thứ tự nhóm để lưu BTL của nhóm
    VD: Nhóm 1, Nhóm 2,...
 2. Nội dung thư mục:
-- Source code
-- File biên dịch
-- File Readme hướng dẫn sử dụng
+- Source code.
+- File biên dịch.
+- File nhóm tác giả, phân chia đóng góp.
+- File Readme hướng dẫn sử dụng.
